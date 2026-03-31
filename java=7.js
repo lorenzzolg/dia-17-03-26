@@ -1,4 +1,4 @@
-java=3
+java=7
 //solicita um numero
 let numero =5;
 //verifica se o numero é positivo, negativo ou zero
